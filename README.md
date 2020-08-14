@@ -5,3 +5,7 @@
 </p>
 
 ***
+
+<p align="center">
+  <img src="/assets/images/demo.gif">
+</p>
