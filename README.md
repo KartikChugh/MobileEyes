@@ -7,5 +7,5 @@
 ***
 
 <p align="center">
-  <img src="/assets/images/demo.gif">
+  <img src="/media/demo.gif">
 </p>
