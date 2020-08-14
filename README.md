@@ -1,4 +1,4 @@
-# MobileEyes: Watch activism blossom.
+# MobileEyes: Watch activism bloom.
 
 <p align="center">
   <img src="/assets/images/mobile_eyes.png">
